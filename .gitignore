@@ -19,6 +19,7 @@ qdrant_vectordb/*
 !qdrant_vectordb/.gitkeep
 
 # Project-specific large/local files
+*.pdf
 case.pdf
 venv_modal_rag/
 vnv/
