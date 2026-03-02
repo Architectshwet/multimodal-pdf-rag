@@ -24,7 +24,3 @@ case.pdf
 venv_modal_rag/
 vnv/
 vnv_modal_rag/
-
-# Generated page images
-page_images/**/*.jpg
-page_images/**/*.jpeg
