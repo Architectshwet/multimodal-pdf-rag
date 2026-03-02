@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+*.sqlite
+*.sqlite3
+tmp/
+temp/
+qdrant_vectordb/*
+!qdrant_vectordb/.gitkeep
+
+# Project-specific large/local files
+case.pdf
+venv_modal_rag/
+vnv/
+vnv_modal_rag/
+
+# Generated page images
+page_images/**/*.jpg
+page_images/**/*.jpeg

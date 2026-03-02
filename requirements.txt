@@ -1,0 +1,11 @@
+asyncpg
+fastapi
+langchain-core
+langchain-openai
+openai
+pdf2image
+pydantic
+pypdf
+qdrant-client
+python-multipart
+uvicorn
